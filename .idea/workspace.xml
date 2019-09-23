@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6e2a969-5118-4f2b-a0be-729bbc9cef10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/portfolio/bgspashscreen.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -34,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="478">
-              <caret line="206" column="120" selection-start-line="206" selection-start-column="118" selection-end-line="206" selection-end-column="120" />
+              <caret line="354" column="28" lean-forward="true" selection-start-line="354" selection-start-column="28" selection-end-line="354" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -195,12 +194,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569235524814</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changed timelin uiiyue">
+      <created>1569237534710</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569237534710</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1013" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.0857295" />
       <window_info id="Structure" side_tool="true" />
@@ -234,7 +239,8 @@
     <MESSAGE value="change proffesionyujyuhjh" />
     <MESSAGE value="change proffesionyujyuhjhuyu" />
     <MESSAGE value="changed timelin e" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed timelin e" />
+    <MESSAGE value="changed timelin uiiyue" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed timelin uiiyue" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gradlew.bat">
@@ -256,7 +262,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
-          <caret line="206" column="120" selection-start-line="206" selection-start-column="118" selection-end-line="206" selection-end-column="120" />
+          <caret line="354" column="28" lean-forward="true" selection-start-line="354" selection-start-column="28" selection-end-line="354" selection-end-column="28" />
         </state>
       </provider>
     </entry>
