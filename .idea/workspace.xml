@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c6e2a969-5118-4f2b-a0be-729bbc9cef10" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
+            <state relative-caret-position="126">
+              <caret line="480" column="42" lean-forward="true" selection-start-line="480" selection-start-column="42" selection-end-line="480" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -317,7 +316,21 @@
       <option name="project" value="LOCAL" />
       <updated>1572853401590</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="change title">
+      <created>1572853561477</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1572853561477</updated>
+    </task>
+    <task id="LOCAL-00024" summary="added github link">
+      <created>1572853914242</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1572853914242</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -371,7 +384,9 @@
     <MESSAGE value="changed dates" />
     <MESSAGE value="changed vtoqa label" />
     <MESSAGE value="changed vtoqa labelhjgh" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed vtoqa labelhjgh" />
+    <MESSAGE value="change title" />
+    <MESSAGE value="added github link" />
+    <option name="LAST_COMMIT_MESSAGE" value="added github link" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/img/favicon.ico">
@@ -440,8 +455,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
+        <state relative-caret-position="126">
+          <caret line="480" column="42" lean-forward="true" selection-start-line="480" selection-start-column="42" selection-end-line="480" selection-end-column="42" />
         </state>
       </provider>
     </entry>
