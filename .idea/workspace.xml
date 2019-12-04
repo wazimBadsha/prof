@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6e2a969-5118-4f2b-a0be-729bbc9cef10" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c6e2a969-5118-4f2b-a0be-729bbc9cef10" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="480" column="42" lean-forward="true" selection-start-line="480" selection-start-column="42" selection-end-line="480" selection-end-column="42" />
+            <state relative-caret-position="145">
+              <caret line="107" column="56" selection-start-line="107" selection-start-column="56" selection-end-line="107" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -41,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
+            <state relative-caret-position="585">
               <caret line="39" column="31" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="31" />
             </state>
           </provider>
@@ -330,15 +328,22 @@
       <option name="project" value="LOCAL" />
       <updated>1572853914242</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="added new experiece">
+      <created>1575441503793</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1575441503793</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1013" extended-state="6" />
+    <frame x="0" y="26" width="1366" height="742" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.21618743" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2193646" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -353,7 +358,7 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.3299435" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32840723" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Gradle" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -386,7 +391,8 @@
     <MESSAGE value="changed vtoqa labelhjgh" />
     <MESSAGE value="change title" />
     <MESSAGE value="added github link" />
-    <option name="LAST_COMMIT_MESSAGE" value="added github link" />
+    <MESSAGE value="added new experiece" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new experiece" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/img/favicon.ico">
@@ -455,14 +461,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="480" column="42" lean-forward="true" selection-start-line="480" selection-start-column="42" selection-end-line="480" selection-end-column="42" />
+        <state relative-caret-position="145">
+          <caret line="107" column="56" selection-start-line="107" selection-start-column="56" selection-end-line="107" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
+        <state relative-caret-position="585">
           <caret line="39" column="31" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="31" />
         </state>
       </provider>
