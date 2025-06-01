@@ -632,8 +632,9 @@ a.active {
 ==================================================*/
 
 #contact {
-    padding: 100px 0;
-    background: #f3f3f3
+    display: block; /* Ensure the section is visible */
+    padding: 50px 0; /* Add padding for spacing */
+    background-color: #f9f9f9; /* Optional: Add a background color for visibility */
 }
 
 #contact-form input,
@@ -798,5 +799,17 @@ fieldset {
     }
     nav li a {
         font-size: 10px;
+    }
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-10px);
+    }
+    60% {
+        transform: translateY(-5px);
     }
 }
